@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/perceptivity/static/css/main.e37ac1d0.chunk.css",
+    "main.css": "/perceptivity/static/css/main.52489093.chunk.css",
     "main.js": "/perceptivity/static/js/main.c4e85b8f.chunk.js",
     "main.js.map": "/perceptivity/static/js/main.c4e85b8f.chunk.js.map",
     "runtime-main.js": "/perceptivity/static/js/runtime-main.704667fd.js",
@@ -8,16 +8,16 @@
     "static/js/2.e2137b27.chunk.js": "/perceptivity/static/js/2.e2137b27.chunk.js",
     "static/js/2.e2137b27.chunk.js.map": "/perceptivity/static/js/2.e2137b27.chunk.js.map",
     "index.html": "/perceptivity/index.html",
-    "precache-manifest.8a77b01c98331312c8f635dc908e6d98.js": "/perceptivity/precache-manifest.8a77b01c98331312c8f635dc908e6d98.js",
+    "precache-manifest.13cd2096893500650f097f8a68d10e2a.js": "/perceptivity/precache-manifest.13cd2096893500650f097f8a68d10e2a.js",
     "service-worker.js": "/perceptivity/service-worker.js",
-    "static/css/main.e37ac1d0.chunk.css.map": "/perceptivity/static/css/main.e37ac1d0.chunk.css.map",
+    "static/css/main.52489093.chunk.css.map": "/perceptivity/static/css/main.52489093.chunk.css.map",
     "static/js/2.e2137b27.chunk.js.LICENSE.txt": "/perceptivity/static/js/2.e2137b27.chunk.js.LICENSE.txt",
     "static/media/kogut.mp3": "/perceptivity/static/media/kogut.40c4a101.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.704667fd.js",
     "static/js/2.e2137b27.chunk.js",
-    "static/css/main.e37ac1d0.chunk.css",
+    "static/css/main.52489093.chunk.css",
     "static/js/main.c4e85b8f.chunk.js"
   ]
 }
