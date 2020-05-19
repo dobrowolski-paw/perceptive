@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f28e3bde2e6e68d7b7f1b1522212f5a7",
+    "revision": "a25ac206012d705e10f970490a1365b3",
     "url": "/perceptivity/index.html"
   },
   {
-    "revision": "0fbe8af6ad344d35fe2f",
-    "url": "/perceptivity/static/css/main.98e640f3.chunk.css"
+    "revision": "4f96cc65a0991af6148e",
+    "url": "/perceptivity/static/css/main.e37ac1d0.chunk.css"
   },
   {
     "revision": "c6b57830de7ddd1c0858",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/perceptivity/static/js/2.e2137b27.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fbe8af6ad344d35fe2f",
+    "revision": "4f96cc65a0991af6148e",
     "url": "/perceptivity/static/js/main.c4e85b8f.chunk.js"
   },
   {
