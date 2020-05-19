@@ -85,7 +85,7 @@ button:hover {
 
 @media (max-width: 840px) {
   .Number {
-    width: 10%;
+    width: 15%;
   }
   .Nr {
     width: 150%;
@@ -95,9 +95,11 @@ button:hover {
     font-size: 36px;
   }
   .Tabel {
-    width: 90%;
+    width: 85%;
   }
   .TabNumber {
+    height: 7%;
+    width: 7%;
     font-size: 150%;
   }
   @keyframes mymove {
