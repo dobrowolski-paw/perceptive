@@ -101,8 +101,8 @@ button:hover {
     width: 85%;
   }
   .TabNumber {
-    height: 7%;
-    width: 7%;
+    height: 6%;
+    width: 10%;
     font-size: 150%;
   }
   @keyframes mymove {
