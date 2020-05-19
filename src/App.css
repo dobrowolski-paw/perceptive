@@ -84,6 +84,9 @@ button:hover {
 }
 
 @media (max-width: 840px) {
+  .App-header {
+    font-size: 2em;
+  }
   .Number {
     width: 15%;
   }
