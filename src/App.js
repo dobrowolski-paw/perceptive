@@ -113,7 +113,7 @@ class App extends Component {
         <header className="App-header">
           Percepcja
           <br />
-          Czas: {this.state.time} Wynik: {this.counter}
+          Czas:{this.state.time} Wynik:{this.counter}
         </header>
         <div className="Number">
           <p className="Nr">{this.state.number}</p>
